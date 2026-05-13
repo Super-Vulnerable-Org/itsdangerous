@@ -4,7 +4,7 @@
 
 ... so better sign this
 
-Various helpers to pass data to untrusted environments and to get it
+Various helpers to pass data to untrusted environments and to get it 
 back safe and sound. Data is cryptographically signed to ensure that a
 token has not been tampered with.
 
