@@ -1,5 +1,5 @@
 <div align="center"><img src="https://raw.githubusercontent.com/pallets/itsdangerous/refs/heads/stable/docs/_static/itsdangerous-name.svg" alt="" height="150"></div>   
-
+ 
 # ItsDangerous
 
 ... so better sign this
